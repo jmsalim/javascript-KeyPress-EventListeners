@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffffff;
+    color: black;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+
+    font-size: 16px;
+    margin-right: 10px;
+
+
+  }
+
+  #letter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: 150px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+  }
+  
